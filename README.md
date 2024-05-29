@@ -1,9 +1,6 @@
 ### console.log("Hi")
 
-================
 <img src="./assets/header_1.png" />
-
-✉️  Связь со мной [bogdan10050@gmail.com](mailto:bogdan10050@gmail.com)
 
 ### Стек
 
