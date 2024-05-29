@@ -2,7 +2,7 @@
 
 <img src="./assets/header_1.png" />
 
-### Стек
+### 🧑‍💻 Стек
 
 ![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,webpack,html,css,sass)
 <br/>
