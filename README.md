@@ -4,12 +4,10 @@
 
 * ✉️  Связь со мной [bogdan10050@gmail.com](mailto:bogdan10050@gmail.com)
 
-### Технологии
+### Стек
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux)](https://skillicons.dev)
-
-
-
+![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,webpack,nodejs,express,mongodb)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)
 
 ### Социальные сети
 
