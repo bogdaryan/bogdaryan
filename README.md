@@ -10,11 +10,9 @@
 
 ### 🌐 Социальные сети
 
-<div style="display: flex; gap: 5px">
-    <a href="https://t.me/wildcandy">
+<a href="https://t.me/wildcandy" target="_blank">
     <img width="48px" height="48px" src="./assets/telegram.png" />
-    </a>
-    <a href="https://www.instagram.com/bogdaryan/">
+</a>
+<a href="https://www.instagram.com/bogdaryan/" target="_blank">
     <img width="48px" height="48px" src="./assets/inst.png" />
-    </a>
-</div>
+</a>
