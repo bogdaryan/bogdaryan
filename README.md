@@ -11,7 +11,7 @@
 
 | NestJS | NodeJS | Express | Postgres | Mongo | 
 |----------|----------|----------|-----|-----|
-|  <img src="./assets/nest.svg" title="NestJS"  alt="NestJS" width="55" height="55"/> | <img src="./assets/node.svg" title="NodeJS"  alt="NodeJS" width="55" height="55"/> | <img src="./assets/express.svg" title="Express"  alt="Express" width="55" height="55"/> | <img src="./assets/postgres.svg" title="Postgres"  alt="Postgres" width="55" height="55"/> | <img src="./assets/mongo.svg" title="Mongo"  alt="Mongo" width="55" height="55"/> | 
+|  <img src="./assets/nest.svg" title="NestJS"  alt="NestJS" width="55" height="55"/> | <img src="./assets/nodejs.svg" title="NodeJS"  alt="NodeJS" width="55" height="55"/> | <img src="./assets/express.svg" title="Express"  alt="Express" width="55" height="55"/> | <img src="./assets/postgresql.svg" title="Postgres"  alt="Postgres" width="55" height="55"/> | <img src="./assets/mongo.svg" title="Mongo"  alt="Mongo" width="55" height="55"/> | 
 
 
 ### 🌐 Socials
