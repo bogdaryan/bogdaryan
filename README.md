@@ -6,7 +6,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,webpack,html,css,sass)
 <br/>
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,nest)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,nest,postgres)
 
 ### 🌐 Socials
 
