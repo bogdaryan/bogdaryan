@@ -9,9 +9,9 @@
 |  <img src="./assets/ts.svg" title="TypeScript"  alt="TypeScript" width="55" height="55"/> | <img src="./assets/js.svg" title="JavaScript"  alt="JavaScript" width="55" height="55"/> | <img src="./assets/react.svg" title="React"  alt="React" width="55" height="55"/> | <img src="./assets/redux.svg" title="Redux"  alt="Rexux" width="55" height="55"/> | <img src="./assets/sass.svg" title="SASS"  alt="SASS" width="55" height="55"/> | <img src="./assets/html.svg" title="HTML"  alt="HTML" width="55" height="55"/> |  <img src="./assets/css.svg" title="CSS"  alt="CSS" width="55" height="55"/> | 
 
 
-| NestJS | NodeJS | Express | Postgres | Mongo | 
-|----------|----------|----------|-----|-----|
-|  <img src="./assets/nest.svg" title="NestJS"  alt="NestJS" width="55" height="55"/> | <img src="./assets/nodejs.svg" title="NodeJS"  alt="NodeJS" width="55" height="55"/> | <img src="./assets/express.svg" title="Express"  alt="Express" width="55" height="55"/> | <img src="./assets/postgresql.svg" title="Postgres"  alt="Postgres" width="55" height="55"/> | <img src="./assets/mongo.svg" title="Mongo"  alt="Mongo" width="55" height="55"/> | 
+| NestJS | NodeJS | Express | Postgres | Mongo | Docker | 
+|----------|----------|----------|-----|-----|-----|
+|  <img src="./assets/nest.svg" title="NestJS"  alt="NestJS" width="55" height="55"/> | <img src="./assets/nodejs.svg" title="NodeJS"  alt="NodeJS" width="55" height="55"/> | <img src="./assets/express.svg" title="Express"  alt="Express" width="55" height="55"/> | <img src="./assets/postgresql.svg" title="Postgres"  alt="Postgres" width="55" height="55"/> | <img src="./assets/mongo.svg" title="Mongo"  alt="Mongo" width="55" height="55"/> | ![docker](https://skillicons.dev/icons?i=docker) | 
 
 
 ### 🌐 Socials
